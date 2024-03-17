@@ -1,0 +1,40 @@
+.andi1 {
+    text-align: center;
+    padding: 50px;
+    padding-top: 50px;
+    width: 50%;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
+.operator{
+    margin: 0px;
+    padding: 0px;
+    font-size: 70px;
+    color: green;
+}h1 {
+    font-size: 25px;
+}
+
+.andi4 {
+    padding: 10px 10px 10px;
+    margin-right: 20px;
+    border-radius: 5px ;
+}
+
+.andi5 {
+    padding: 10px 10px 10px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.andi2 {
+    background-color: blue;
+    padding: 10px 0px 10px;
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 5px;
+} 
+
